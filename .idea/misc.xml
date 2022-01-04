@@ -6,7 +6,8 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.24954710144927536" />
         <entry key="app/src/main/res/layout/be_my_eyes_camarascreen.xml" value="0.24954710144927536" />
         <entry key="app/src/main/res/layout/be_my_eyes_mainscreen.xml" value="0.24954710144927536" />
-        <entry key="app/src/main/res/layout/voiceeye.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/voiceeye.xml" value="0.24954710144927536" />
+        <entry key="app/src/main/res/layout/voiceeyefragment.xml" value="0.24954710144927536" />
       </map>
     </option>
   </component>

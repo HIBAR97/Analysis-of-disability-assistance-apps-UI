@@ -7,7 +7,8 @@
         <entry key="app/src/main/res/layout/be_my_eyes_camarascreen.xml" value="0.24954710144927536" />
         <entry key="app/src/main/res/layout/be_my_eyes_mainscreen.xml" value="0.24954710144927536" />
         <entry key="app/src/main/res/layout/voiceeye.xml" value="0.24954710144927536" />
-        <entry key="app/src/main/res/layout/voiceeyefragment.xml" value="0.24954710144927536" />
+        <entry key="app/src/main/res/layout/voiceeyefragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/voiceeyemain.xml" value="0.24954710144927536" />
       </map>
     </option>
   </component>
@@ -16,5 +17,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>

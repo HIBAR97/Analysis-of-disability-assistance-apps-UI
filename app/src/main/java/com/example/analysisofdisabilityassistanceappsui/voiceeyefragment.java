@@ -7,8 +7,11 @@ import android.view.ViewGroup;
 
 import androidx.fragment.app.Fragment;
 
+import com.example.analysisofdisabilityassistanceappsui.R;
+
 public class voiceeyefragment extends Fragment {
     public View onCreate(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         return inflater.inflate(R.layout.voiceeyefragment,container,false);
     }
 }
+
